@@ -32,5 +32,6 @@
 
 ### Солнечная панель
 
-![circuit](https://github.com/user-attachments/assets/b2e8bbbf-9488-41a4-9f43-bc437dcd627e)
+![circuit (2)](https://github.com/user-attachments/assets/9a3a9cce-010f-40cf-a27a-c24e0de0f166)
+
 
