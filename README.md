@@ -36,7 +36,9 @@
 
 ### 3D-модель
 
+![СЭС1](https://github.com/user-attachments/assets/c871635e-f5cc-4269-89ca-6b0ef366a592)
 
+![СЭС2](https://github.com/user-attachments/assets/0db41f75-a3d7-449d-a527-c47978a39f3f)
 
 ## Код
 
