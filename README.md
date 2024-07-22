@@ -32,7 +32,7 @@
 
 ### Солнечная панель
 
-![circuit (2)](https://github.com/user-attachments/assets/9a3a9cce-010f-40cf-a27a-c24e0de0f166)
+![circuit (3)](https://github.com/user-attachments/assets/fb4c3fdf-6baf-4b4d-bb6f-68ae6708311c)
 
 ### 3D-модель
 
