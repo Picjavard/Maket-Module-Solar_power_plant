@@ -14,6 +14,10 @@ Thingiverse: https://www.thingiverse.com/thing:6749891
 
 ![Солнечная панель](https://github.com/user-attachments/assets/e9326493-2ad9-49cf-a8d0-80d526a6be48)
 
+![СЭС1](https://github.com/user-attachments/assets/c871635e-f5cc-4269-89ca-6b0ef366a592)
+
+![СЭС2](https://github.com/user-attachments/assets/0db41f75-a3d7-449d-a527-c47978a39f3f)
+
 ## Подключение
 
 ### OLED-дисплей
@@ -37,12 +41,6 @@ Thingiverse: https://www.thingiverse.com/thing:6749891
 ### Солнечная панель
 
 ![circuit (3)](https://github.com/user-attachments/assets/fb4c3fdf-6baf-4b4d-bb6f-68ae6708311c)
-
-### 3D-модель
-
-![СЭС1](https://github.com/user-attachments/assets/c871635e-f5cc-4269-89ca-6b0ef366a592)
-
-![СЭС2](https://github.com/user-attachments/assets/0db41f75-a3d7-449d-a527-c47978a39f3f)
 
 ## Код
 
