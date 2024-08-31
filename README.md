@@ -8,9 +8,13 @@
 * Сервомотор
 * Резистор 10кОм - 2 шт.
 
+## 3D-модели для печати
+
+Thingiverse: https://www.thingiverse.com/thing:6749891
+
+![Солнечная панель](https://github.com/user-attachments/assets/e9326493-2ad9-49cf-a8d0-80d526a6be48)
 
 ## Подключение
-
 
 ### OLED-дисплей
 
