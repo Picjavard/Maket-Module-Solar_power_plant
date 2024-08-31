@@ -3,10 +3,10 @@
 
 ## Список компонентов
 
-* Солнечная панель
-* Микроконтроллер Arduino
-* Сервомотор
-* Резистор 10кОм - 2 шт.
+* Солнечная панель - https://sl.aliexpress.ru/p?key=nrgsrmt
+* Микроконтроллер Arduino - https://sl.aliexpress.ru/p?key=OQhsrnW
+* Сервомотор - https://sl.aliexpress.ru/p?key=pUgsrxQ
+* Резистор 10кОм - 2 шт. - https://sl.aliexpress.ru/p?key=KjhsrsY
 
 ## 3D-модели для печати
 
